@@ -15,8 +15,8 @@
 
 <a href="https://www.java.com/tr/" > <img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>&nbsp; </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img width ='79px' align= 'center' src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png">&nbsp;
-<img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>&nbsp;</a>
-<img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>&nbsp; </a>
+<a href="https://www.w3.org/Style/CSS/" > <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>&nbsp;</a>
+<a href="https://www.w3.org/Style/CSS/" > <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>&nbsp; </a>
