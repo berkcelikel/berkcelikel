@@ -7,14 +7,14 @@
 - 🔭 I’m currently working on Test Automation Projects and AI
 -  📫 How to reach me **berkcelikel999@gmail.com**
 
-- 📄 Know about my experiences      &nbsp;    <a href = 'https://www.linkedin.com/in/berkcelikel/'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+- 📄 Know about my experiences      &nbsp;    <a href = 'https://www.linkedin.com/in/berkcelikel/'> <img width = '30px' align= 'center'  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 - 💬 Talk to me about everything
 
 <h2> Skills  </h2>
 
-<img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-<img width ='39px'align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
+<img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>&nbsp; </a>
+<img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>&nbsp; </a>
 <img width ='39px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
 <img width ='39px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <img width ='39px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>
