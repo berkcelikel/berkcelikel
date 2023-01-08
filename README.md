@@ -21,6 +21,8 @@
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
+
 <img width ='115px' align= 'center' src ='https://i.pinimg.com/originals/df/9b/06/df9b0688eef574c8c776adcd60d9c094.png'> </a>
  
  </a>
