@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer Engineer in Test / SDET</h3>
+<h3 align="center">Software Developer Engineer in Test / Qa Engineer </h3>
 
 </p>
 <div size='20px'> Hi, I'm Berk Thank You for taking the time to view my GitHub Profile
