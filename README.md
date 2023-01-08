@@ -11,7 +11,7 @@
 
 - 💬 Talk to me about everything
 
-<h2> Skills  </h2>
+<h2> Languages and Tools  </h2>
 
 <img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>&nbsp; </a>
 <img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>&nbsp; </a>
