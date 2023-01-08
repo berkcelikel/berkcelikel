@@ -13,7 +13,7 @@
 
 <h2> Languages and Tools  </h2>
 
-<img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>&nbsp; </a>
+<a href="https://www.java.com/tr/" > <img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>&nbsp; </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img width ='79px' align= 'center' src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png">&nbsp;
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>&nbsp;</a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>&nbsp; </a>
