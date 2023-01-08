@@ -17,10 +17,10 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img width ='79px' align= 'center' src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png">&nbsp;
 <a href="https://www.w3.org/html/" > <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>&nbsp;</a>
 <a href="https://www.w3.org/Style/CSS/" > <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>&nbsp; </a>
-<img width ='39px' align= 'center' src ='https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67'>&nbsp; </a>
-<img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'>&nbsp; </a>
-<img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>&nbsp; </a>
-<img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>&nbsp;</a>
+<a href="https://code.visualstudio.com/" > <img width ='39px' align= 'center' src ='https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67'>&nbsp; </a>
+<a href="https://www.jenkins.io/" > <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'>&nbsp; </a>
+<a href="https://www.postman.com/" > <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>&nbsp; </a>
+<a href="https://www.adobe.com/tr/products/photoshop.html" > <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>&nbsp;</a>
 <a href="https://code.visualstudio.com/" > <img width ='39px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">&nbsp;
 <a href="https://www.jetbrains.com/idea/" > <img width ='39px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png">&nbsp;
 <a href="https://www.atlassian.com/software/jira" > <img width ='79px' align= 'center' src="https://destek.gazi.edu.tr/images/atlassian-jira-logo-large.png">&nbsp;
