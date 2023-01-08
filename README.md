@@ -1,7 +1,7 @@
 <h3 align="center">Software Test Engineer / SDET</h3>
 
 </p>
-<div size='20px'> Hi! My name is Berk ÇELİKEL. Thank You for taking the time to view my GitHub Profile
+<div size='20px'> Hi, I'm Berk Thank You for taking the time to view my GitHub Profile
 </div>
 
 - 🔭 I’m currently working on Test Automation Projects and AI
