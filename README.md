@@ -14,7 +14,6 @@
 <h2> Languages and Tools  </h2>
 
 <img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>&nbsp; </a>
-<img width ='39px' align= 'center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>&nbsp;</a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67'>&nbsp; </a>
