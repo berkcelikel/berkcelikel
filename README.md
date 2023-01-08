@@ -20,8 +20,8 @@
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'>&nbsp; </a>
 <img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>&nbsp; </a>
-<img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> 
-<img width ='125px' src ='https://i.pinimg.com/originals/df/9b/06/df9b0688eef574c8c776adcd60d9c094.png'> </a>
+<img width ='39px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>&nbsp;
+<img width ='115px' align= 'center' src ='https://i.pinimg.com/originals/df/9b/06/df9b0688eef574c8c776adcd60d9c094.png'> </a>
  
  </a>
 
