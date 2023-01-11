@@ -4,7 +4,7 @@
 <div size='20px'> Hi, I'm Berk Thank You for taking the time to view my GitHub Profile
 </div>
 
-- 🔭 I’m currently working on Test Automation Projects and AI
+- 🔭 I’m currently working on Test Automation Projects and UI,API
 -  📫 How to reach me **berkcelikel999@gmail.com**
 
 - 📄 Know about my experiences      &nbsp;    <a href = 'https://www.linkedin.com/in/berkcelikel/'> <img width = '30px' align= 'center'  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
